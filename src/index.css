@@ -17,12 +17,6 @@
    /* filter: blur(1px); */
 }
 
-/* .border{
-  background: linear-gradient(to right,rgb(53, 132, 235),lightblue);
-  background-origin: padding-box, border-box;
-  border: 5px ;
-  background-repeat: no-repeat;
-} */
 
 .border{
   border-image: linear-gradient(rgb(53, 132, 235), lightblue 1000px,rgb(53, 132, 235) 10px) 50;
@@ -30,12 +24,7 @@
   border-style: solid;
 }
 
-/* .border {
-  border-style: solid;
-  border-width: 4px;
-  border-image: linear-gradient(to right, darkblue, darkorchid) 1;
-  clip-path: inset(0 round 5px)
-} */
+
 
 
 
