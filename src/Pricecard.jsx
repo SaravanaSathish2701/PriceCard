@@ -57,10 +57,11 @@ const Subscriptions = () => {
         <div
           key={val.title}
           style={{
-            border: "16px solid rgb(53, 132, 235)",
+            // border: "16px solid rgb(53, 132, 235)",
             padding: "20px",
             marginTop: "50px",
           }}
+          className='border'
         >
           <h5
             style={{
